@@ -1,7 +1,7 @@
 # Star Spec
 
-**Note**
-My first game ever. It involved spaceships and was published to the appstore. This game took me about 4 months to create. I programmed the app in Corona SDK. It had an in game currency, in app purchases, multiple spaceships, achievements, and many obstacles.
+**About:**
+This is the first game I ever officially published. It took me about 4 months to create. I programmed the app in Corona SDK. It had an in game currency, in app purchases, multiple spaceships, achievements, and many obstacles.
 
 **To Run:**
 - Download Corona SDK
