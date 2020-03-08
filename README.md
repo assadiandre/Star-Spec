@@ -8,5 +8,6 @@
 - Right-click on the main.lua file > open with > Corona SDK
 - Please note: This app has been removed from the app-store since 2018. You can see a website visual [here](https://appadvice.com/app/star-spec/1185775000). 
 
-![StarSpec Image](https://i.ibb.co/k51bL6Q/star-spec-photo.png)
+![StarSpec Image](https://i.ibb.co/fqv63G4/star-spec-photo.png)
+
 
