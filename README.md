@@ -6,7 +6,7 @@
 - Download Corona SDK
 - Locate the main.lua file
 - Right-click on the main.lua file > open with > Corona SDK
-- Please note: This app has been removed from the app-store since 2018. You can see a website visual [here](https://appadvice.com/app/star-spec/1185775000). 
+- Please note: This app has been removed from the app-store since 2018. You can see a appadvice's website [here](https://appadvice.com/app/star-spec/1185775000). 
 
 ![StarSpec Image](https://i.ibb.co/fqv63G4/star-spec-photo.png)
 
