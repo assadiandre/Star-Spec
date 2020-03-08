@@ -1,15 +1,12 @@
 # Star Spec
 
-**About:**
-This is the first game I ever officially published. It took me about 4 months to create. I programmed the app in Corona SDK. It had an in game currency, in app purchases, multiple spaceships, achievements, and many obstacles.
+**Star Spec** is a game I developed in 2017 using Corona SDK. It received 5,000+ downloads. Star Spec included multiple power-ups, achievements, in-app purchases, nice visuals, physics, in-game currency and more. The purpose of the game was to collect as many coins as possible while dodging asteroids.
 
 **To Run:**
 - Download Corona SDK
 - Locate the main.lua file
 - Right-click on the main.lua file > open with > Corona SDK
 
-
-Here is the link: https://itunes.apple.com/us/app/star-spec/id1185775000?mt=8
 - Please note: This app has been removed from the app-store since 2018
 
-![alt text](https://media.giphy.com/media/BWoylHkqiv68TptaG4/giphy.gif)
+![StarSpec Image](https://i.ibb.co/kG1dpZG/image.png)
