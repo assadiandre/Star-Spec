@@ -9,4 +9,4 @@
 
 - Please note: This app has been removed from the app-store since 2018
 
-![StarSpec Image](https://i.ibb.co/kG1dpZG/image.png)
+![StarSpec Image](https://i.ibb.co/K6FJrzF/image.png)
